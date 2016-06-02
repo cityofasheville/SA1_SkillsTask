@@ -4,7 +4,7 @@ City of Asheville Time Off Accruals
 ##The Problem
 Like any large organization, the City of Asheville  needs to track time off accruals for the approximately 1100 employees that work for the city. This includes vacation time, sick leave, and compensatory time (aka Comp time) for both exempt and non-exempt employees. These accruals represent a liability for the organization and managers need to track comp time in particular to make sure that large numbers of comp hours are not accrued by individual employees. In particular, if an employee has more than 40 hours of accrued comp time, it should be flagged for review.
 
-The goal of this exercise is to analyze accrual data (see below) and deliver that analysis and any related visualizations. Part of the solution should allow a division manager or department director to review accrual balances for their employees. Additional insights aor visualizations are welcome.
+The goal of this exercise is to analyze accrual data (see below) and deliver that analysis and any related visualizations. Part of the solution should allow a division manager or department director to review accrual balances for their employees. Additional insights or visualizations are welcome.
 
 Once the data are organized to provide meaningful metrics/visualizations, we will need to monitor accruals on an ongoing basis. Ideally, each manager or department director could easily review accrual balances with a live data feed that is constantly updated.
 
@@ -12,10 +12,11 @@ Once the data are organized to provide meaningful metrics/visualizations, we wil
 
 * Employee Time Off Accrual Data can all be found here: https://drive.google.com/folderview?id=0B-uuat4PtUk1VmwyTGdBb29xaEE&usp=sharing
 * Files include the following tables:
-1. Employee Master - employee data
-2. Accrual Balances - actual hours accrued by accrual type
-3. Accrual Types - types of accrual balances
-4. Department to Division Map - relates department and division codes
+* Employee Master - employee data
+* Accrual Balances - actual hours accrued by accrual type
+* Accrual Types - types of accrual balances
+* Department to Division Map - relates department and division codes
+
 * Keep in mind that you may not need to use all data in each table. These data come from our ERP system.
 
 ##Rules

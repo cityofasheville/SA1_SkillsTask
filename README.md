@@ -11,11 +11,11 @@ Once the data are organized to provide meaningful metrics/visualizations, we wil
 ##Data
 
 * Employee Time Off Accrual Data can all be found here: https://drive.google.com/folderview?id=0B-uuat4PtUk1VmwyTGdBb29xaEE&usp=sharing
-* Files include the following:
-*** Employee Master - employee data
-*** Accrual Balances - actual hours accrued by accrual type
-*** Accrual Types - types of accrual balances
-*** Department to Division Map - relates department and division codes
+* Files include the following tables:
+1. Employee Master - employee data
+2. Accrual Balances - actual hours accrued by accrual type
+3. Accrual Types - types of accrual balances
+4. Department to Division Map - relates department and division codes
 * Keep in mind that you may not need to use all data in each table. These data come from our ERP system.
 
 ##Rules

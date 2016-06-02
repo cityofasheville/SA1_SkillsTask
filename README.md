@@ -10,9 +10,13 @@ Once the data are organized to provide meaningful metrics/visualizations, we wil
 
 ##Data
 
-* Purchasing data (vendors, invoices, purchase orders, purchase order line items) are updated nightly from Tyler Munis and are published on the city’s open data catalog -  http://opendatacatalog.ashevillenc.gov/opendata/search/?sort=name&dir=asc&qs=invoice
-* Also please feel to use any other data on the city's open data portal that might help -http://opendatacatalog.ashevillenc.gov/
-* You may also use or link to any other data sources you wish.
+* Employee Time Off Accrual Data can all be found here: https://drive.google.com/folderview?id=0B-uuat4PtUk1VmwyTGdBb29xaEE&usp=sharing
+* Files include the following:
+*** Employee Master - employee data
+*** Accrual Balances - actual hours accrued by accrual type
+*** Accrual Types - types of accrual balances
+*** Department to Division Map - relates department and division codes
+* Keep in mind that you may not need to use all data in each table. These data come from our ERP system.
 
 ##Rules
 
@@ -33,4 +37,4 @@ Feel free to send us any documentation or comments on design, set-up, or your ap
 
 Have fun!
 
-**Please complete your submission by Monday, December 7th, at 9am.** Early submissions are welcome!
+**Please complete your submission by Monday, June 13th, at 9am.** Early submissions are welcome!

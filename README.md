@@ -1,12 +1,12 @@
-City of Asheville Purchasing
+City of Asheville Time Off Accruals
 =====
 
 ##The Problem
-Like many municipalities, the City of Asheville relies on many vendors and suppliers to support the governance of the city. While all purchases are recorded in our financial system, Tyler MUNIS, little has been done to understand patterns of purchasing relative to vendor location, departments served, frequency and/or volume of purchases from specific vendors, etc. To get a better handle on the purchasing patterns in Asheville and to know if the city is effectively marketing the needs for goods and services to a broad range of vendors, we need to analyze and understand our purchasing patterns. 
+Like any large organization, the City of Asheville  needs to track time off accruals for the approximately 1100 employees that work for the city. This includes vacation time, sick leave, and compensatory time (aka Comp time) for both exempt and non-exempt employees. These accruals represent a liability for the organization and managers need to track comp time in particular to make sure that large numbers of comp hours are not accrued by individual employees. In particular, if an employee has more than 40 hours of accrued comp time, it should be flagged for review.
 
-The goal of this exercise is to address the problem above by analyzing available data (see below) and delivering that analysis and any related visualizations. This is intentionally broad to provide plenty of room for creativity and fresh perspectives. 
+The goal of this exercise is to analyze accrual data (see below) and deliver that analysis and any related visualizations. Part of the solution should allow a division manager or department director to review accrual balances for their employees. Additional insights aor visualizations are welcome.
 
-Once we determine meaningful metrics/visualizations, we will need to monitor our progress on an ongoing basis.
+Once the data are organized to provide meaningful metrics/visualizations, we will need to monitor accruals on an ongoing basis. Ideally, each manager or department director could easily review accrual balances with a live data feed that is constantly updated.
 
 ##Data
 

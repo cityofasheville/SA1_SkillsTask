@@ -38,5 +38,3 @@ Send us any reports or other visualizations that you think would be helpful.
 Feel free to send us any documentation or comments on design, set-up, or your approach to the problem.
 
 Have fun!
-
-**Please complete your submission by Monday, June 13th, at 9am.** Early submissions are welcome!
